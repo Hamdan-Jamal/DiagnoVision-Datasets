@@ -1,0 +1,333 @@
+dataset,encounter_id,dialogue,note
+virtassist,D2N017,"[doctor] hello , mrs . peterson .
+[patient] hi , doctor taylor . good to see you .
+[doctor] you're here for your hip today , or your- your leg today ?
+[patient] yes . i hurt my- the- my- top part of my right leg here .
+[doctor] hey , dragon . i'm seeing mrs . peterson , here , she's a 43-year-old patient . she's here for left leg pain . right leg pain , right leg pain ?
+[patient] yes .
+[doctor] um so , what happened to you ?
+[patient] i was bowling and as i was running up to the lane , i had my bowling ball all the way back , and when i slung it forward , i hit it right into my leg instead of the lane and so then i fell but- yeah-
+[doctor] did you get a strike ?
+[patient] no . in fact , i actually dropped the ball and it jumped two lanes over and landed in the other people's gutter .
+[doctor] terrific , terrific . so , did it swell up on you ?
+[patient] it- not- did n't seem like it swelled that much .
+[doctor] what about bruising ?
+[patient] um , a little bit on the back- back end , that side .
+[doctor] have- have you been able to walk on it ?
+[patient] just a little bit . very carefully .
+[doctor] sore to walk on ?
+[patient] yes . it's very sore .
+[doctor] um , and going upstairs or downstairs , does that bother you at all ?
+[patient] yeah , well , i do n't have stairs , but um , i would avoid that at all costs .
+[doctor] okay . um , it looks like you had a history of atopic eczema in your past ?
+[patient] yes . yes , i have eczema .
+[doctor] okay . and you take uh- uh , fluocinonide for that ?
+[patient] yes , when it gets really itchy , i'll- i'll use that and it usually takes care of it .
+[doctor] okay . and , it looks like you have a pre- previous surgical history of a colectomy ? what happened there ?
+[patient] yes , i had a- um , some diverticulosis and then um , i actually went into diverticulitis and they ended up going in and having to remove a little bit of my colon .
+[doctor] okay , let me examine you . does it hurt when i push on your leg like that ?
+[patient] yes , it does .
+[doctor] okay . if i lift your leg up like this , does that hurt ?
+[patient] no .
+[doctor] so , on my exam , you have some significant tenderness to the lateral aspect of your um right upper leg . you do n't seem to have any pain or tenderness with flexion or extension of your um your lower leg . um , are you taking anything for it right now ?
+[patient] i've been going back and forth between taking ibuprofen and tylenol .
+[doctor] okay . well , my impression is that you- you probably have a contusion , but let's take a look at your x-ray first . hey , dragon . show me the x-ray . yeah , so if you look at this , this is a normal femur . um , really do n't see any evidence of a fracture or any swelling , so it's essentially , a normal x-ray . so , what we're going to do is , i'm going to start you on um an anti-inflammatory . it's going to be mobic 15 milligrams uh , once a day . i want you to use some ice for the pain , um , and it should , honestly , just being a contusion , get better in the next week or so . if it's not getting better , of course , come on back and- and see me .
+[patient] okay , sounds good .
+[doctor] hey , dragon . go ahead and um , pres- do the orders and um , procedures uh , as described . come with me , and uh , i'll get you checked out . dragon , go ahead and finish off the note .","CC:
+
+Right leg pain.
+
+HPI:
+
+Ms. Peterson is a 43-year-old female who presents today for an evaluation of right leg pain. She states she was bowling and hit her leg with the ball and fell. She developed mild bruising. She denies swelling. She has been walking very carefully. She is alternating Tylenol and ibuprofen. She has a history of atopic eczema and takes Fluocinonide topical cream for it. She has a history of colectomy following diverticulosis.
+
+EXAM
+
+Examination of the right leg shows significant tenderness to the lateral aspect of the right upper leg. No pain or tenderness with flexion or extension of the lower leg.
+
+RESULTS
+
+X-rays of the right lower extremity is normal, no fractures or dislocations.
+
+IMPRESSION
+
+Right leg contusion.
+
+PLAN
+
+At this point, I discussed the diagnosis and treatment options with the patient. I have recommended Mobic 15 mg once a day. She will use ice for pain. She will follow up as needed.
+"
+virtscribe,D2N021,"[doctor] next patient is christine hernandez , uh , date of birth is january 13th , 1982 .
+[doctor] hey , miss christine , how are you doing today ?
+[patient] i'm good , thanks . how are you ?
+[doctor] i'm pretty good . so it looks like you've completed the covid vaccine , that's great .
+[patient] yes , i did .
+[doctor] anything new since your last visit ?
+[patient] no , i did all the tests that you had recommended me to take . i have n't been able to take the thyroid medicine , the one that you prescribed , as i'm still taking my old one . um , the price was a little high on the new one .
+[doctor] okay , so did ... did you try the coupon that i gave you ?
+[patient] i did not try the coupon , uh , there was a charge of $ 75 .
+[doctor] okay , well , next time that ... that coupon should help , and it should only be about $ 3 .
+[patient] okay , um ... i do n't have it , do you happen to have another one you can give me ?
+[doctor] yep , right here .
+[patient] wonderful , thank you so much , and ... and then the gel , they are charging me $ 100 for it . so , i do n't know if this is because it's a ... it's wal-mart , or if i should try somewhere else , or ... maybe you know how or where i can get it cheaper .
+[doctor] yeah , let's try something else , um ... sometimes it can be cheaper if we just prescribe you the individual ingredients of a medication , rather than the , the combined medication itself .
+[patient] that would be great .
+[doctor] so , that's clindamycin gel and benzoyl peroxide , uh , maybe by doing them separately , they could be a lot cheaper . so , that we can do . the unithroid , with the discount code , should only be about $ 9 for 90 days .
+[patient] okay , that would be great . yeah , they were charging me $ 75 , and i just could n't pay that .
+[doctor] maybe we'll try different pharmacy , as well .
+[patient] okay . so , do you think that my weight gain could have been the birth control that i was taking before that caused it ?
+[doctor] maybe . i do n't really see an endocrine cause for it , at least , so i would need to see the , the hyperandrogynism or high testosterone . or , a high dhea , to cause acne , or hair growth , or any of that stuff . but , the numbers are n't showing up out of range .
+[patient] okay .
+[doctor] i really do n't see any endocrine cause for it , like i said . your growth hormone was fine , but we definitely want to and need to treat it . um , i do n't know if we talked about maybe a little weight loss study .
+[patient] you mentioned the weight loss study , and you mentioned that i have some meal plans , um , that you had given me . i still have those , too .
+[doctor] have you tried to make any changes in the diet since the last time we spoke ?
+[patient] i've been trying to get better . i will start back at the gym in july , because of my contract , i had to put a hold on it until then .
+[doctor] okay .
+[patient] so , i do want to start doing that . i will be a little freer since , um , i'll be on vacation after july 8th .
+[doctor] okay , good .
+[patient] and then my cousin was telling me to ask you about cla , because it's supposed to help your metabolism . is that okay to take ?
+[doctor] um , i'm not sure . what is c , cla ?
+[patient] i'm not sure what it is , either .
+[doctor] okay , well , i'm unfamiliar with it , so ...
+[patient] okay . i also have a coworker who has a thyroid issue too , and she suggested to try chromium for weight loss .
+[doctor] so , that likely will not help too much . you can try either , if you really want to , but then ... it will not accept you into the weight loss study if you try those two .
+[patient] okay .
+[doctor] chromium is just a supplement and it wo n't help that much .
+[patient] it wo n't , okay , thank you .
+[doctor] it wo n't hurt ... okay , i should n't say that it wo n't hurt , but , it also wo n't help that much . so , it's up to you .
+[patient] okay . and so , my cousin also suggested amino acids , and that i might find them in certain foods , i guess , for my workout .
+[doctor] yeah . amino acids are fine , they wo n't , wo n't really help with weight loss either , but it might help , uh , you replenish , and just kind of , feel hydrated .
+[patient] okay . are they proteins ? um , my cousin said she had lost some weight , and has been working out every day , but she does n't work , so ... i do n't know .
+[doctor] yes , amino acids are what make up the protein , which is in any food you eat , with any protein . so , meats , dairy , nuts , any of that sort of thing .
+[patient] okay , thank you . got it .
+[doctor] all right . um , are you allergic to any medications ?
+[patient] no , not that i know of .
+[doctor] okay . is your s- skin pretty sensitive ?
+[patient] yes .
+[doctor] all right .
+[patient] um , yeah , my size , i will start getting rashes , with different products .
+[doctor] and have you ever tried clindamycin topical , as an antibiotic for your acne ?
+[patient] no , i've never tried anything for it .
+[doctor] okay . we might give you some of that .
+[patient] okay . and i also want to mention that my feet do swell up a lot .
+[doctor] okay . i'm ... let me take a look at that for just a moment . um , any constipation ?
+[patient] yes , i also do have that problem .
+[doctor] all right . mira- miralax will definitely help with that .
+[patient] okay , yes , my doctor did also recommend that .
+[doctor] great . all right , let's do an exam real quick . please have a seat on this table and i'll listen to your lungs and heart .
+[patient] okay .
+[doctor] all right , deep breath . all right , again .
+[patient] okay .
+[doctor] all right , sounds good .
+[patient] great .
+[doctor] let me take a look at your feet and ankles .
+[patient] okay .
+[doctor] all right , they look okay right now , certainly let your doctor know about this if it gets any worse or reoccurs .
+[patient] okay , i will do that .
+[doctor] now , let's go over your lab work . so , when you took that pill , the dexamethasone test , you passed , which means you do n't have cushing's syndrome . on that test , at least . the salivary cortisol , though , unless you did one wrong ... two of them were completely normal and one was abnormal , so , we might need to repeat that in the future .
+[patient] okay , that's okay .
+[doctor] all right , so , your cholesterol was quite high . the total cholesterol was 222 . the good cholesterol was about 44 . the bad was 153 , and it should be less than 100 . the non-hdl was about 178 , and it should be less than 130 . the good cholesterol should be over 50 , and it was 44 . so , your screen for diabetes is ... was fine . you do have a vitamin d deficiency , and , i do n't know if we started the vitamin d yet , or not .
+[patient] yes , we did . i- i do need to take one today , though .
+[doctor] okay . so , i also checked a lot of other pituitary hormones , iron levels ... everything else seemed to be pretty good , and in decent range .
+[patient] okay , that sounds great . so , i wanted to also show you my liver enzymes , um , because i have n't come back since then ... but i was also happy , because one of them was back to normal .
+[doctor] okay , great . let's see them .
+[patient] okay . so , the one that's 30 , that was almost 200 not so long ago .
+[doctor] yeah , your alt was about 128 .
+[patient] okay , and , and back in october was 254 .
+[doctor] yeah , this is much better .
+[patient] okay , great . and then it dropped in january , and then it dropped a little more in march , since i stopped taking the medicine in december .
+[doctor] okay , that's good . so ... i'm proud of you with the course of your labs , so before i forget , i'm going to , uh , just put your labs into the computer today , and i wo n't be checking your vitamin d level for some time .
+[patient] okay . so , with the thyroid , and the low vitamin d , does that always happen together ?
+[doctor] um , i do have a lot of people that have thyroid , thyroid issues and they have vitamin d deficiency .
+[patient] okay .
+[doctor] this is what i'm , um , i'm going to do . i'm going to put , print out your prescriptions , so you can shop around at the pharmacies and see if you can find better prices .
+[patient] okay , that way i can go ask them and try cvs .
+[doctor] yeah , that sounds like a plan .
+[patient] okay , good . so , the weight loss study that you mentioned , when does that start ? or , how does that work ?
+[doctor] so , we are about to start , as we just got approval last week , and we are just waiting on our paperwork so we can get started .
+[patient] okay , and what's involved with that ?
+[doctor] so , it'll involve you receiving a medication which has been used for diabetes treatment , and it works mostly in the gut on satiety , or satiety hormones . um , the most common side effects are going to be nausea , vomiting , diarrhea and constipation . they are s- uh , six arms , to the study . one is a placebo , the other ones are a , various as ... various dosages of the medication , excuse me . um , you would receive an injection once a week . also , keep in mind that most of the weight loss medications are not covered by insurance .
+[patient] okay .
+[doctor] so , it's a way of getting them , but , the odds of getting one of the arms with the medication that are in your favor , right , might be only one out of five of our hundred patients that we have on the list for the study that will receive the placebo .
+[patient] okay .
+[doctor] does that make sense ?
+[patient] yes , it does .
+[doctor] so , we do expect pretty big weight loss , because of what we learn in diabetes study . so , it's a year long , uh , process , and it's an injection once a week . you come in weekly for the first four , five weeks , i believe . and then , after that , it's once a month . you do get a stipend for partici- for participating in the study , and parking is validated , and whatever else that you need for the study .
+[patient] okay , do you know how much the stipend is ?
+[doctor] um , i will have to double check for you , and , you do n't have to be my patient , you just have to meet the criteria . so the criteria is a bmi greater than 30 , if you do n't have any other medical condition . or , a bmi greater than 27 , if you do have another medical condition , like your cholesterol . um , a bmi greater than 27 would quali- uh , qualify you .
+[patient] i have a friend who might be interested , and she does have diabetes .
+[doctor] if she has d- diabetes , then she wo n't qualify .
+[patient] okay , you ca n't if you ... if you have diabetes , got it .
+[doctor] correct . yeah , the only thing that , um , they can not have , really , is diabetes . so , either a psychiatric disease , or schizophrenia , bipolar , things like that .
+[patient] okay .
+[doctor] but , if they have hypertension , high cholesterol , things like that ... they can definitely sign up .
+[patient] and they can , okay . thank you for explaining that .
+[doctor] of course . so , do you want me to try to get you into that study ? or , would you just like to try , me to prescribe something ? it's kind of up to you .
+[patient] i think i'll just wait for a little bit now .
+[doctor] all right , sounds good . i'll give you the information for the research , it's just in my office . um , it is a different phone number , though . so then , if you're interested , just call us within a month , because i do n't know how long , uh , the , the wait will be .
+[patient] okay , will do .
+[doctor] perfect . so , let me go grab your discount card for the unithroid . um , when you go in to activate it , the instructions are on this card , and then you use your insurance ... then , show them this , and ask how much it'll cost . if it's too expensive , just let me know .
+[patient] i will . thank you so much for your help on that .
+[doctor] you're welcome . then , what i did is , i gave you a topical antibiotic , plus i gave you the benzoyl peroxide . so , the peroxide may bleach your sheets , but , you want to make sure to take it and apply it at night , so you do n't have a reaction from the sun during the day .
+[patient] okay , i can do that .
+[doctor] but , you do also want to make sure that you do n't mess up your sheets .
+[patient] okay , sounds good .
+[doctor] um , so , that's that . and then , let's see how you do on the other medications . i think this will , this will get better . in the meantime , a low-carb diet , avoid alcohol and fatty foods , and low chole- cholesterol foods .
+[patient] okay .
+[doctor] and again , once you finish your dose of vitamin d , for the vitamin d deficiency , you're gon na start with the 2000iu daily , so that you're able to maintain those levels . sound good ?
+[patient] yes , that sounds great .
+[doctor] i really think your liver enzymes are going to get better once you lose the weight , though .
+[patient] okay , that would be great .
+[doctor] since we stopped your birth control , we can try once called phexxi , which is kind of like a spermicide , basically .
+[patient] okay .
+[doctor] and you just apply it before intercourse .
+[patient] okay .
+[doctor] if you need some , uh , just let me know .
+[patient] okay , i will . i'll let you know .
+[doctor] okay , perfect . so , stay put for me now . i'm going to go see if they have discount samples , and bring you that prescription . and then , i'm going to order the labs for next time .
+[patient] okay , great , thank you so much .
+[doctor] you're welcome .
+[doctor] so , under the plan , under abnormal liver enzymes , they have improved since discontinuation of her birth control . under abnormal weight gain , her dexamethasone suppression test was normal . two out of three salivary cortisol tests were normal , not consistent with cushing's , and therefore we're ruling out cushing's . under her hirsutism , her androgen levels were normal . for the acne vulgaris , the epiduo was not covered , so we'll try benzoyl peroxide with clindamycin , and remove the previous information . on the hyperthyroidism , we'll print out her prescriptions . unithroid should be better priced with the discount card , and we'll repeat levels of everything before next visit . thanks .","CHIEF COMPLAINT
+
+Hypothyroidism.
+Abnormal liver enzymes.
+Abnormal weight gain.
+Acne vulgaris.
+
+HISTORY OF PRESENT ILLNESS
+
+Christine Hernandez is a 39-year-old female who presents today for evaluation and management of abnormal liver enzymes and hypothyroidism.
+
+When the patient was last seen, her thyroid medicine was changed to Unithroid, but due to the cost of $75, she has not yet started the new medicine and continues taking her previous thyroid medicine. She denies utilizing the coupon that was previously recommended for the Unithroid. Similarly, the patient was prescribed Epiduo for her acne vulgaris, which she did not fill due to the cost of $100. She tried filling both prescriptions at Walmart.
+
+Mrs. Hernandez still presents with abnormal weight gain. She questioned if her oral contraceptive Microgestin, which was discontinued, could have been the cause. Additional symptoms included acne, hirsutism. She is attempting to modify her intake and plans to resume her gym membership in July as she will be on vacation. She inquired about the impact on weight loss of chromium, CLA, and amino acids.
+
+The patient confirmed that she is taking her high dose Vitamin D as prescribed. She does suffer from constipation and she treats with MiraLAX.
+
+She denies previous treatment for her acne vulgaris. She denies ever using clindamycin topical antibiotic. She reports having sensitive skin, developing rashes with various skin products.
+
+PAST HISTORY
+
+Medical
+Hypothyroidism.
+Acne Vulgaris.
+Vitamin D deficiency.
+Abnormal weight gain.
+Hirsutism.
+Constipation.
+
+CURRENT MEDICATIONS
+
+Benzoyl Peroxide.
+Clindamycin Gel applied topically.
+Vitamin D 2000 IU daily.
+Unithroid.
+MiraLAX.
+
+ALLERGIES
+
+No known allergies.
+
+RESULTS
+
+Dexamethasone Suppression Test: Normal.
+
+Salivary Cortisol Tests: 2 out of 3 were normal. Not consistent with Cushing’s Syndrome.
+
+Hepatic Function Panel: ALT 128.
+Lipid Panel: Total cholesterol 222 mg/dL, HDL 44 mg/dL, LDL 153 mg/dL, non-HDL 178 mg/dL.
+
+FAI: Normal.
+
+ASSESSMENT
+
+• Hypothyroidism.
+• Abnormal liver enzymes.
+• Abnormal weight gain.
+• Acne vulgaris
+• Vitamin D deficiency.
+• Hirsutism
+
+PLAN
+
+Hypothyroidism
+The patient will again attempt to initiate Unithroid. I have printed out the prescription and a discount card, which should result in a reduced price. She will contact my office if she encounters additional issues.
+
+Abnormal liver enzymes
+We have seen improvement since the discontinuation of Microgestin. I recommended the spermicide Phexxi for alternative birth control. The patient will also continue working on weight loss, which should additionally improve her liver enzymes.
+
+Abnormal weight gain
+Cushing’s Syndrome has been ruled out. I reviewed the weight loss study with the patient, she will call within a month if she is interested in participating. I advised her to follow a low carbohydrate, low cholesterol, abstain from alcohol, and reduce fatty foods diet.
+
+Acne vulgaris
+Epiduo was not covered and too expensive. The patient will try benzoyl peroxide and Clindamycin separately to see if the price improves.
+
+Vitamin D deficiency
+The patient will complete the high dose vitamin D and then should start vitamin D 2000 IU per day to maintain her levels.
+
+Hirsutism
+Her androgen levels were normal.
+
+INSTRUCTIONS
+
+She will repeat all labs prior to her next visit.
+"
+aci,D2N053,"[doctor] so barbara i i know you are here for some itchy scalp pain can you tell me a little bit about how you're doing
+[patient] yeah it's still quite a problem you know something i've been suffering with for so long now it's still quite itchy and it's really embarrassing too because i'll have dandruff so much like all over me but but i just ca n't stop itching
+[doctor] okay when did you first notice this
+[patient] i wan na say it's been a while but probably worsening in the past like six months or so
+[doctor] okay okay and have you seen ever noticed any rashes either when it first started or intermittently anywhere else
+[patient] on my body no not really
+[doctor] okay okay just mainly up underneath your on your scalp there uh and i can i can see that man that looks really itchy and scaly have you died your hair recently or used any other chemicals you you know like a new hair spray or gel
+[patient] nothing new i mean i do dye my hair but i've been doing that for years now but otherwise i do n't really use a lot of products in my hair
+[doctor] yeah i you know it's funny you say that because i keep saying i earned this gray hair and i'm gon na keep it so yeah have you tried any over the counter treatments i know there is a lot out of there something you know like a t gel or any of those other have those helped
+[patient] yeah i did that i did head and shoulders i even tried some castor oil and but none of them really seemed to be helping
+[doctor] okay okay let's talk about some other symptoms any joint pain fever weight loss
+[patient] not that i can recall i've been pretty good otherwise
+[doctor] okay good and going back you know to your grandparents has anybody else in the family had similar symptoms that you're aware of
+[patient] no well maybe my sister
+[doctor] maybe your sister okay
+[patient] yeah maybe my sister i mean i know she'll is no one has as bad as i do but she does report like just having a dry scalp
+[doctor] okay okay now you know a lot of times we can see this with you know high levels of stress has there been any new mental or emotional stressors at work or at home
+[patient] not really i mean it's basically the same things
+[doctor] okay yeah i yeah we have a lot of that yes so let me go ahead and and look at this a little closer here the first off i wan na tell you the the vital signs that the my assistant took when you came in your blood pressure is one thirty over sixty eight your heart rate was ninety eight and your respiratory rate was eighteen so those all look good and appear normal and your temperature was ninety seven . seven and that is all normal now when i look at your scalp here i do notice that you have demarcated scaly erythematous plaques and that's just kind of explaining technically what's going on those patches and they're they're in a patchy format they're diffusely present across the back of your skull and that's probably why you you see all that that that white dander you know on your on your your clothes as you go through the day now lem me talk a little bit about my impression and plan i think that you have a scalp psoriasis and let's and here is my thoughts on that what i would like you to use is to use clobetasol that's a zero . zero five percent solution and i want you to use that twice daily on the the affected areas of your scalp so you're just gon na put this on and just kinda gently rub it in now i know to do it twice daily is going to be difficult but if you can do it first thing in the morning when you get up and then before you go to bed you know get a shower and before you go to bed that will be great i want you to continue to use t-gel shampoo that you listed when you first came in that's a very good solution shampoo for that and that will help with controlling a lot of this now there is no cure for this unfortunately and flareups can be unpredictable but we see that you know not a we do n't have a great finger on what causes the flare ups but i'm gon na give you some steroids that will help and we're gon na have to manage that on a ongoing basis but when you get do get a flare up i want you to be using these flare steroid that i give you as we go through that and then i wan na see you back here in three months or sooner if it gets significantly worse do you have any questions for me
+[patient] no okay so i'll just use that steroid solution and then just as needed if it's really bad but then otherwise just use the t gel
+[doctor] yeah i want it's exactly what i want you to do i want you to use that that solution twice daily when you get that flare but then other than that just continue to use that t-gel shampoo
+[patient] alright
+[doctor] okay i'm gon na have my nurse come in and get you discharged but i the we will see you again in three months or and again please if it gets worse please do n't hesitate to call me and come in sooner
+[patient] alright perfect thank you
+[doctor] thank you
+[patient] okay bye","CHIEF COMPLAINT
+
+Itchy scalp pain.
+
+REVIEW OF SYSTEMS
+
+Constitutional: Denies fever or weight loss.
+HENT: Reports scalp pain Musculoskeletal: Denies joint pain.
+Skin: Reports itchy scalp Denies any rashes.
+
+VITALS
+
+BP: 130/68.
+HR: 98.
+RR:18.
+Temperature is 97.7 today.
+
+PHYSICAL EXAM
+
+Integumentary
+- Examination: Scalp reveals demarcated scaly, erythematous plaques. They are patchy in format and diffusely present across the back of the skull.
+
+ASSESSMENT AND PLAN
+
+1. Scalp psoriasis.
+- Medical Reasoning: The patient presents today with symptoms similar to scalp psoriasis.
+- Patient Education and Counseling: Nature of the diagnosis was discussed as well as treatment options. Patient was advised there is no cure for this. Patient was counseled on how to apply clobetasol 0.05%.
+- Medical Treatment: Prescription for clobetasol 0.05% solution twice daily provided. Continuing using T/Gel shampoo. Prescription for steroids provided to be used for flare ups.
+
+Patient Agreements: The patient understands and agrees with the recommended medical treatment plan.
+
+INSTRUCTIONS
+
+The patient will follow-up in 3 months or sooner if her conditions worsen."

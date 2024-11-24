@@ -1,0 +1,66 @@
+TestID,SystemOutput1,SystemOutput2,dialogue
+taskA3,MEDICATIONS,Accutane.,"Doctor: How've you been treating your acne? 
+Patient: The dermatologist started me on Accutane.  
+Doctor: How long have you been on Accutane? 
+Patient: About three months now. 
+Doctor: Have you noticed any improvements since starting it? 
+Patient: Yeah, kinda."
+taskA53,GENHX,"A 49-year-old female with history of atopic dermatitis comes to the clinic with complaint of left otalgia and headache.  Symptoms started approximately three weeks ago and she was having difficulty hearing, although that has greatly improved.  She is having some left-sided sinus pressure and actually went to the dentist because her teeth were hurting; however, the teeth were okay.  She continues to have some left-sided jaw pain.  Denies any headache, fever, cough, or sore throat.  She had used Cutivate cream in the past for the atopic dermatitis with good results and is needing a refill of that.  She has also had problems with sinusitis in the past and chronic left-sided headache.","Doctor: How are you Miss G? 
+Patient: I am good doctor, thank you for asking. 
+Doctor: So, tell me what is going on?
+Patient: I have this ear pain and headache for some time. It's better than before but I still want to get it checked. 
+Doctor: Okay, when exactly did it start?
+Patient: Um, almost three weeks ago. I am having difficulty hearing. I also feel this pressure on the left side of my sinus causing tooth pain. I went to my dentist yesterday, but my teeth are fine. 
+Doctor: Okay, do you have headache now?
+Patient: No, just ear pain and this jaw pain on the left side. 
+Doctor: Any fever, cough, sore throat, or any cold like symptoms? 
+Patient: No, but I have a sinus problem and I suffer from chronic left sided headache.
+Doctor: How old are you?
+Patient: Oh, I am forty nine.
+Doctor: Hm, so are you taking any medications for your pain?
+Patient: No, currently I am just using Cutivate for my eczema. It has helped me a lot, I do need a refill for it. 
+Doctor: Okay I will send a prescription for it to your pharmacy."
+taskA61,ALLERGY,"She has hay fever, eczema, sinus, and hives.  She has no melanoma or skin cancers or psoriasis.  Her mother had oral cancer.  The patient is a nonsmoker.  No blood tests.  Had some sunburn in the past.  She is on benzoyl peroxide and Daypro.","Doctor: So, ma'am, what brings you in for a visit today? 
+Patient: Well, a few things, I have hay fever, um, eczema, sinus problems, and hives. 
+Doctor: Wow, that's quite a lot. Do you have any history of melanoma, or skin cancer? 
+Patient: No, just the eczema. 
+Doctor: How about psoriasis? 
+Patient: No, that doesn't ring any bells. 
+Doctor: Do you have any family history of cancer? 
+Patient: Um, yes, my mother had mouth cancer. 
+Doctor: I see, do you smoke tobacco? 
+Patient: Um, no, that never appealed to me, especially with the history of cancer. 
+Doctor: Can I safely assume that you've been sunburned before? 
+Patient: Sure, it happens when I go to the beach all the time. 
+Doctor: What medicines are you taking right now? 
+Patient: Um, I'm taking benzoyl peroxide and Daypro. Sorry I forgot to bring the blood test today."
+taskA66,ALLERGY,"She has hay fever, eczema, sinus, and hives.  She has no melanoma or skin cancers or psoriasis.  Her mother had oral cancer.  The patient is a nonsmoker.  No blood tests.  Had some sunburn in the past.  She is on benzoyl peroxide and Daypro.","Doctor: Hello, miss. How are you doing today? 
+Patient: My skin has been going crazy. 
+Doctor: Could you describe to me what's happening? 
+Patient: I can't really describe it, but I can show you. Here's a report from my local doctor. 
+Doctor: I see. It says you have hay fever, eczema, sinus problems, and hives, correct? 
+Patient: Yeah, I guess so. 
+Doctor: Does this run in your family? 
+Patient: Uhm. I don't think so. I know my mom has some type of cancer in her mouth. 
+Doctor: I see. Have you been screened for cancer before? 
+Patient: Oh, yeah. Here's the report with all that information. 
+Doctor: This looks good. It says you don't have melanoma or skin cancers or psoriasis. 
+Patient: Sounds good to me. So, what's all this stuff on my skin? 
+Doctor: Hm. Let me take a look. Have you been sunburned before? 
+Patient: Oh, yeah. I had some and it burned a lot. 
+Doctor: I see. Are you currently taking any medications? 
+Patient: It's on the report from my local doctor. 
+Doctor: Looks like you're taking benzoyl peroxide and Daypro. You're not smoking with these medications, right? 
+Patient: Do I look like I smoke? I've never smoked in my life."
+taskA75,ASSESSMENT,1.  Serous otitis. 2.  Atopic dermatitis.,"Doctor: How long have you been having this pain in your ear?
+Patient: It's been three or four days. 
+Doctor: Okay, let me check your ears, which side is in pain?
+Patient: The left one.
+Doctor: Okay let me check both ears. Well, you have lot of fluid accumulated in your left ear, which has caused infection in your middle part of the ear. It is called as Serous Otitis. 
+Patient: Nothing to worry about?
+Doctor: I will prescribe you some antibiotics, it should take care of it. 
+Patient: Thank you!
+Doctor: Anything else?
+Patient: Ah yes, my eczema is also acting up. 
+Doctor: Hm, you have a history of atopic dermatitis in other words eczema.
+Patient: Yeah, I have had it since childhood."
